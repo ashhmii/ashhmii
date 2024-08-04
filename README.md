@@ -23,9 +23,9 @@ The courses I am currently undertaking:
   <ol>💖Hobbies: In my free time, I love to go for a swim, and bake goodies. In addition, I love to journal as a form of self-reflection, which I consider to be really important. 
    I also find joy in the art of brewing the perfect cup of coffee, as I am currently working as a part-time Barista. </ol>
 
-   📧Let's Connect ! 
-   Feel free to connect if you share any of the similar interests or just want to have a chat about tech, coding, or life ( because I know it can get hectic sometimes). 
-   Let's build something great together !
+   📧Let's Connect! 
+   <p> Feel free to connect if you share any of the similar interests or just want to have a chat about tech, coding, or life ( because I know it can get hectic sometimes). 
+   Let's build something great together ! </p>
 
 
 
